@@ -61,5 +61,6 @@ jobs:
 - Si necesitas personalizar la lógica de build/test, modifica los scripts `dotnet.ps1` o `node.ps1` según corresponda.
 
 ---
-DevOps Mario Fribla Gonzalez
+Mario Fribla
+***DevOps***
 
